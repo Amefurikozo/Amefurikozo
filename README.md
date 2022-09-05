@@ -6,7 +6,7 @@ I'm currently at my first steps in the tech industry. A career switcher on a jou
 
 :computer: I’m currently working on building a portfolio to land myself a job.  
 :books: I’m currently learning whatever i can that might help me achieve my goals and dreams.  
-:blossom: I’m looking to help with basically anything that is in the reach of my knowledge and hands, with focus and hope to have a positive impact.  
+:blossom: Looking to help with basically whatever is in the reach of my knowledge and hands, with focus & hope to have a positive impact.  
 :coffee: Ask me about anything!  
 :mailbox_with_mail: How to reach me: webdevcharilaosg@gmail.com / nature.whispers.hi@gmail.com  
 :rabbit: Fun fact: I can probably solve the Rubik's cube faster than you.  
