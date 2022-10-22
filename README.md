@@ -2,9 +2,9 @@
 
 <a href="https://imgur.com/plOVFvR"><img src="https://i.imgur.com/plOVFvR.png" title="source: imgur.com" /></a>
 
-I'm currently at my first steps in the tech industry. A career switcher on a journey to experience the world of Web Developing, hoping it becomes a big part of my daily life.
+I'm a career switcher on a journey to become an awesome Web Dev. I am passionate and always thirsty for more.
 
-:computer: I’m currently working on building a portfolio to land myself a job.  
+:computer: I’m currently working on personal & client projects, while searching for the next good opportunity.
 :books: I’m currently learning whatever i can that might help me achieve my goals and dreams.  
 :blossom: Looking to help with basically whatever is in the reach of my knowledge and hands, with focus & hope to have a positive impact.  
 :coffee: Ask me about anything!  
