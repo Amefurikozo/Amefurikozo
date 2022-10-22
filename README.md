@@ -4,7 +4,7 @@
 
 I'm a career switcher on a journey to become an awesome Web Dev. I am passionate and always thirsty for more.
 
-:computer: I’m currently working on personal & client projects, while searching for the next good opportunity.
+:computer: I’m currently working on personal & client projects, while searching for the next good opportunity.  
 :books: I’m currently learning whatever i can that might help me achieve my goals and dreams.  
 :blossom: Looking to help with basically whatever is in the reach of my knowledge and hands, with focus & hope to have a positive impact.  
 :coffee: Ask me about anything!  
