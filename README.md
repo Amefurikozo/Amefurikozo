@@ -2,7 +2,10 @@
 
 <a href="https://imgur.com/plOVFvR"><img src="https://i.imgur.com/plOVFvR.png" title="source: imgur.com" /></a>
 
-I'm a career switcher on a journey to become an awesome Web Dev. I am passionate and always thirsty for more.
+I'm a career switcher on a journey to become an <b>awesome</b> Web Dev.  
+<b>Designing and coding</b> has become an enjoyable part of my daily life for some time now.  
+Learning and creating projects with utmost care is what I do.  
+<b>I'm passionate, and full of dreams.</b>
 
 :computer: I’m currently working on personal & client projects, while searching for the next good opportunity.  
 :books: I’m currently learning whatever i can that might help me achieve my goals and dreams.  
